@@ -1,0 +1,27 @@
+﻿using System; 
+namespace Actividad02Semana05
+{
+    class Program
+    {
+        static void Main(string[]args)
+        {
+            double a; 
+            double b; 
+            Console.WriteLine("¡Bienvenid@!, por favor ingresa dos números para compararlos: ");
+            a = double.Parse(Console.ReadLine());
+            b = double.Parse(Console.ReadLine());
+            if (a==b)
+             {
+                Console.WriteLine("Ambos números ingresados son iguales");
+             }
+            else if (a<b)
+            {
+            Console.WriteLine("FALSO");
+            }
+            else if (a>b)
+            {
+            Console.WriteLine("VERDADERO");
+            } 
+        }
+    }
+}
