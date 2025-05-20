@@ -1,0 +1,14 @@
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\bin\Debug\net9.0\CLASES SEMANA 15.exe
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\bin\Debug\net9.0\CLASES SEMANA 15.deps.json
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\bin\Debug\net9.0\CLASES SEMANA 15.runtimeconfig.json
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\bin\Debug\net9.0\CLASES SEMANA 15.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\bin\Debug\net9.0\CLASES SEMANA 15.pdb
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\obj\Debug\net9.0\CLASES SEMANA 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\obj\Debug\net9.0\CLASES SEMANA 15.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\obj\Debug\net9.0\CLASES SEMANA 15.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\obj\Debug\net9.0\CLASES SEMANA 15.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\obj\Debug\net9.0\CLASES SEMANA 15.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\obj\Debug\net9.0\refint\CLASES SEMANA 15.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\obj\Debug\net9.0\CLASES SEMANA 15.pdb
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\obj\Debug\net9.0\CLASES SEMANA 15.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 15\CLASES SEMANA 15\obj\Debug\net9.0\ref\CLASES SEMANA 15.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CLASES SEMANA 15/1.0.0": {
+        "runtime": {
+          "CLASES SEMANA 15.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CLASES SEMANA 15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

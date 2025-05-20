@@ -1,0 +1,14 @@
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\bin\Debug\net9.0\SEMANA10ACTV2.exe
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\bin\Debug\net9.0\SEMANA10ACTV2.deps.json
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\bin\Debug\net9.0\SEMANA10ACTV2.runtimeconfig.json
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\bin\Debug\net9.0\SEMANA10ACTV2.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\bin\Debug\net9.0\SEMANA10ACTV2.pdb
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\obj\Debug\net9.0\SEMANA10ACTV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\obj\Debug\net9.0\SEMANA10ACTV2.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\obj\Debug\net9.0\SEMANA10ACTV2.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\obj\Debug\net9.0\SEMANA10ACTV2.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\obj\Debug\net9.0\SEMANA10ACTV2.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\obj\Debug\net9.0\refint\SEMANA10ACTV2.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\obj\Debug\net9.0\SEMANA10ACTV2.pdb
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\obj\Debug\net9.0\SEMANA10ACTV2.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA 10\SEMANA10ACTV2\obj\Debug\net9.0\ref\SEMANA10ACTV2.dll

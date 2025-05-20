@@ -1,0 +1,14 @@
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\bin\Debug\net9.0\SEMANA08-2.exe
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\bin\Debug\net9.0\SEMANA08-2.deps.json
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\bin\Debug\net9.0\SEMANA08-2.runtimeconfig.json
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\bin\Debug\net9.0\SEMANA08-2.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\bin\Debug\net9.0\SEMANA08-2.pdb
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\obj\Debug\net9.0\SEMANA08-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\obj\Debug\net9.0\SEMANA08-2.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\obj\Debug\net9.0\SEMANA08-2.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\obj\Debug\net9.0\SEMANA08-2.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\obj\Debug\net9.0\SEMANA08-2.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\obj\Debug\net9.0\refint\SEMANA08-2.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\obj\Debug\net9.0\SEMANA08-2.pdb
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\obj\Debug\net9.0\SEMANA08-2.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\PC\SEMANA08-2\obj\Debug\net9.0\ref\SEMANA08-2.dll
