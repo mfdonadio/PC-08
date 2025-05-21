@@ -1,0 +1,28 @@
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\bin\Debug\net9.0\PROYECTO 2.exe
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\bin\Debug\net9.0\PROYECTO 2.deps.json
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\bin\Debug\net9.0\PROYECTO 2.runtimeconfig.json
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\bin\Debug\net9.0\PROYECTO 2.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\bin\Debug\net9.0\PROYECTO 2.pdb
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\obj\Debug\net9.0\PROYECTO 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\obj\Debug\net9.0\PROYECTO 2.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\obj\Debug\net9.0\PROYECTO 2.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\obj\Debug\net9.0\PROYECTO 2.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\obj\Debug\net9.0\PROYECTO 2.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\obj\Debug\net9.0\refint\PROYECTO 2.dll
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\obj\Debug\net9.0\PROYECTO 2.pdb
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\obj\Debug\net9.0\PROYECTO 2.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Escritorio\Primer Semestre\código PC LAB\PROYECTO 2\obj\Debug\net9.0\ref\PROYECTO 2.dll
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\bin\Debug\net9.0\PROYECTO 2.exe
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\bin\Debug\net9.0\PROYECTO 2.deps.json
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\bin\Debug\net9.0\PROYECTO 2.runtimeconfig.json
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\bin\Debug\net9.0\PROYECTO 2.dll
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\bin\Debug\net9.0\PROYECTO 2.pdb
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\obj\Debug\net9.0\PROYECTO 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\obj\Debug\net9.0\PROYECTO 2.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\obj\Debug\net9.0\PROYECTO 2.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\obj\Debug\net9.0\PROYECTO 2.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\obj\Debug\net9.0\PROYECTO 2.dll
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\obj\Debug\net9.0\refint\PROYECTO 2.dll
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\obj\Debug\net9.0\PROYECTO 2.pdb
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\obj\Debug\net9.0\PROYECTO 2.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Escritorio\BATTLESHIP\obj\Debug\net9.0\ref\PROYECTO 2.dll
